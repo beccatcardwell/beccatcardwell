@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 I am an accessibility-focused web developer who specializes in front-end and UX. I have a Bachelor Degree in Psychology at the University of South Florida which I use to ensure strong user experience and accessibility of clients' websites. I have created interactive web-experiences for everything from non-profits and small businesses to Fortune 50 companies.
 
-Currently, I am taking **[IBM's Full Stack Developer Professional Certification](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)** as a way to reinforce my front-end skills while also expanding to the back-end.
+Recently, I completed **[IBM's Full Stack Developer Professional Certification](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)** as a way to reinforce my front-end skills while also expanding to the back-end.
 
 > I am actively searching for a new position, and am open to relocation and hybrid/remote environments. Please, message me on my [LinkedIn](https://www.linkedin.com/in/rebecca-cardwell/) if you are looking to hire. Thank you!
