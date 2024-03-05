@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥️ I have 5 years of front-end experience
-- ⚡ My main tech stack includes JavaScript, React.js, and Next.js
-- 🌱 I’m currently learning back-end development including Express.js, Python, SQL, and more
+- ⚡ My main tech stack includes TypeScript/JavaScript, React.js, and Next.js
+- 🌱 I’m currently learning Discrete Mathematics in Computer Science
 
 I am an accessibility-focused web developer who specializes in front-end and UX. I have a Bachelor Degree in Psychology at the University of South Florida which I use to ensure strong user experience and accessibility of clients' websites. I have created interactive web-experiences for everything from non-profits and small businesses to Fortune 50 companies.
 
