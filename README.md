@@ -23,3 +23,5 @@ I am an accessibility-focused web developer who specializes in front-end and UX.
 Recently, I completed **[IBM's Full Stack Developer Professional Certification](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)** as a way to reinforce my front-end skills while also expanding to the back-end.
 
 > I am actively searching for a new position, and am open to relocation and hybrid/remote environments. Please, message me on my [LinkedIn](https://www.linkedin.com/in/rebecca-cardwell/) if you are looking to hire. Thank you!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beccatcardwell&layout=compact&theme=vision-friendly-dark)
